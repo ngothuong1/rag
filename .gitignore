@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+.env
+
+# models
+models/
+*.gguf
+
+# vector database
+vector_store/
+faiss_index/
